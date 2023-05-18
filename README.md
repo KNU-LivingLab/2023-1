@@ -30,6 +30,7 @@ LivingLab
 ![image](https://github.com/pmj-chosim/LivingLab/assets/114579651/ffa2f4f9-dd61-42a8-99b1-57da4c923fd7)  
 
 터미널에   
+  
 [ python3 -m http.server 8000 ]입력하기 (서버 포트는 자기 맘대로. 나는 8000으로 함)  
 회신 온 주소로 접속 (예시 사진에선 주소가  http://0.0.0.0:8000/ )  
 
