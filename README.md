@@ -1,6 +1,14 @@
 # LivingLab
 LivingLab
 
+<Front 구성 결과>
+https://knu-livinglab.github.io/
+
+back&db 등은 서버 비용 문제로 인해...
+
+-------------------------
+<작업 방법>
+
 2023-1 안에 파일들을 올리세요.
 
 **2023-1 ~ 폴더 안에 프로토타입 양식 있음!!**
